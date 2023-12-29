@@ -1,1 +1,9 @@
-Download the original EFI from https://drive.google.com/drive/folders/1xASzfodGZEqzm_BvcQ4Pkp4dZF0NZ0q7?usp=share_link
+Download the EFI from https://drive.google.com/drive/folders/1xASzfodGZEqzm_BvcQ4Pkp4dZF0NZ0q7?usp=share_link
+
+
+LATEST OS SONOMA 14.2.1
+OPENCOREPATCHER 1.3.0
+INTEL HD 4400 on i3
+
+MAKE AND MODEL
+HP G9D77UA#ABA
